@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://attitudinalley.github.io/sitemap.xml 
